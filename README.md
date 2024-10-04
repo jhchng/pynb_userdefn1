@@ -54,6 +54,6 @@ Follow these steps to set up the Jupyter Notebook:
     jupyter notebook python_userdef_func.ipynb
     ```
 
-That's it! Your Jupyter Notebook should now be up and running.
+Jupyter Notebook should now be up and running and you should be able to access it.
 
 
