@@ -33,7 +33,7 @@ Follow these steps to set up the Jupyter Notebook:
 
 1. Run the following command to clone the required repository:
     ```bash
-    git clone git@github.com:jhchng/pynb_userdefn1.git
+    git clone https://github.com/jhchng/pynb_userdefn1.git
     ```
 2. Change to the project directory:
     ```bash
