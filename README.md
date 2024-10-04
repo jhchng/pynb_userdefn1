@@ -2,7 +2,7 @@
 
 ## 1. Prerequisites
 
-- Ensure that **Python** is already installed on your PC/Laptop.
+- Ensure that **Python** is already installed on your PC/Laptop and accessible via command prompt/console terminal.
 
 ## 2. Setup Instructions
 
